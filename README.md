@@ -1,5 +1,7 @@
 # bigint-product
 
+[![Build Status](https://travis-ci.org/incessantmeraki/bigint-product.svg?branch=master)](https://travis-ci.org/incessantmeraki/bigint-product)
+
 multiply two arbitary precision integers
 
 ## Usage
