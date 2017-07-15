@@ -9,7 +9,7 @@ multiply two arbitary precision integers
 ### Example
 
 ```js
-  var multiply = require('bigint-multiply')
+  var multiply = require('bigint-product')
   console.log(multiply('123456789123456789','987654321987654321'))
 ```
 
