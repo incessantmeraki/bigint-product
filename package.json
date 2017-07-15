@@ -1,0 +1,28 @@
+{
+  "name": "bigint-product",
+  "version": "1.0.0",
+  "description": "multiply two arbitrary precision integers",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.7.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incessantmeraki/bigint-product.git"
+  },
+  "keywords": [
+    "multiply",
+    "big",
+    "integers"
+  ],
+  "author": "Ashwin Kandel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incessantmeraki/bigint-product/issues"
+  },
+  "homepage": "https://github.com/incessantmeraki/bigint-product#readme"
+}
